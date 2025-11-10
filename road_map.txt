@@ -1,0 +1,7 @@
+What is the growth rate of Tesla production and deliveries over the years?
+
+Does Tesla manage to deliver everything it produces? Is there a gap between production and deliveries? Is this gap increasing or decreasing?
+
+Is there any seasonality?
+
+Based on historical data, could we make a simple forecast for the next few quarters?
